@@ -1,0 +1,18 @@
+segment_sources:
+  IB711401C:
+    type: origin_type
+    relation: translation
+    language: sa
+  I302AD87A:
+    type: origin_type
+    relation: translation
+    language: bo
+  I4CB80AE8:
+    type: origin_type
+    relation: translation
+    language: de
+segment_pairs:
+  db4a9a8d1a604909ab2a9112d49f86ab:
+    IB711401C: None
+    I302AD87A: 908a3468a0aa467c93076cb58ad48931
+    I4CB80AE8: None
